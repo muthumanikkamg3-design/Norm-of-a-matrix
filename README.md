@@ -13,19 +13,19 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No:25016274
 # Developed By:G.MUTHU MANIKKAM
 # 1-Norm of a Matrix
-<img width="1917" height="877" alt="Screenshot 2025-12-29 133317" src="https://github.com/user-attachments/assets/7f1f53b3-924a-4bde-999c-66db4736d524" />
+<BR><img width="1917" height="877" alt="Screenshot 2025-12-29 133317" src="https://github.com/user-attachments/assets/7f1f53b3-924a-4bde-999c-66db4736d524" />
 
 
 
 
 # 2-Norm of a Matrix
-<img width="1919" height="877" alt="Screenshot 2025-12-29 133354" src="https://github.com/user-attachments/assets/ae61c77d-2fcd-4714-92de-59e15e6016b8" />
+<br><img width="1919" height="877" alt="Screenshot 2025-12-29 133354" src="https://github.com/user-attachments/assets/ae61c77d-2fcd-4714-92de-59e15e6016b8" />
 
 
 
 
 # Infinity Norm of a Matrix
-<img width="1786" height="904" alt="Screenshot 2025-12-29 133424" src="https://github.com/user-attachments/assets/af607e33-15bd-498d-b713-db4de5aa14dc" />
+<br><img width="1786" height="904" alt="Screenshot 2025-12-29 133424" src="https://github.com/user-attachments/assets/af607e33-15bd-498d-b713-db4de5aa14dc" />
 
 
 
