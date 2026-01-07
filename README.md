@@ -46,7 +46,8 @@ Infinity Norm of a Matrix
 ### Infinity Norm of a Matrix
 <br>
 <br>
-![Uploading Screenshot 2025-12-29 133442.png…]()
+<img width="1171" height="442" alt="Screenshot 2026-01-07 110427" src="https://github.com/user-attachments/assets/f5c0e8fe-78d9-4887-9253-3d4fd323dd19" />
+
 
 <br>
 
