@@ -1,4 +1,4 @@
-# Norm of a matrix
+<img width="1300" height="551" alt="Screenshot 2026-01-07 110408" src="https://github.com/user-attachments/assets/cba5e846-87f1-480e-b4fd-25f00aedfeaf" /># Norm of a matrix
 ## Aim
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
@@ -11,24 +11,25 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ## Program:
 ```Python
 # Register No:25016274
-# Developed By:G.MUTHU MANIKKAM
+# Developed By:G.MUTHU MANIKKAM```
 1-Norm of a Matrix
-<img width="1917" height="877" alt="Screenshot 2025-12-29 133317" src="https://github.com/user-attachments/assets/4d33e160-08db-4f49-b18d-3bcc1b6d9529" />
+<img width="1383" height="595" alt="Screenshot 2026-01-07 110008" src="https://github.com/user-attachments/assets/b6d7fb60-4e62-4d50-ab60-7d46322d5ec1" />
 
 2-Norm of a Matrix
-<br><img width="1919" height="877" alt="Screenshot 2025-12-29 133354" src="https://github.com/user-attachments/assets/ae61c77d-2fcd-4714-92de-59e15e6016b8" />
+<img width="1265" height="712" alt="Screenshot 2026-01-07 110047" src="https://github.com/user-attachments/assets/960ad82c-2fbf-496e-9e92-c2e6702630f8" />
 
 
 
 
 Infinity Norm of a Matrix
-<br><img width="1786" height="904" alt="Screenshot 2025-12-29 133424" src="https://github.com/user-attachments/assets/af607e33-15bd-498d-b713-db4de5aa14dc" />
+<img width="1300" height="551" alt="Screenshot 2026-01-07 110408" src="https://github.com/user-attachments/assets/d4b70f27-8f3b-47bc-b934-f025f4f7fa58" />
 
 
 
 
 
-```
+
+
 ## Output:
 ### 1-Norm of a Matrix
 <br>
@@ -46,7 +47,9 @@ Infinity Norm of a Matrix
 ### Infinity Norm of a Matrix
 <br>
 <br>
-![Uploading Screenshot 2025-12-29 133442.png…]()
+<img width="1171" height="442" alt="Screenshot 2026-01-07 110427" src="https://github.com/user-attachments/assets/5d8ff9ab-550f-4936-a37f-7bcab6196b1c" />
+
+
 
 <br>
 
